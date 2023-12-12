@@ -1,0 +1,10 @@
+.infoContainer {
+    padding: 20px;
+}
+
+.btnGuardar {
+    margin-top: 20px;
+    background-color: red !important;
+    color: white !important;
+    border: none !important;
+}
